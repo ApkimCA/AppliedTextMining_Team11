@@ -9,7 +9,7 @@
 
 
 ## Objective:
-The goal of this project involves a sentiment/event analysis of articles/blog posts of MLB teams shown on the mlbtraderumors.com website. We will be comparing the key words that show up in blog posts to team performance.  Performance of teams will be measured in attendance, wins or losses, and team revenue.  We are looking for which reported on events are most likely to lead to increases or decreases in overall team performance.
+The goal of this project is to conduct a sentiment/event analysis of articles and blog posts of certain Major League Baseball (MLB) teams shown on the mlbtraderumors.com website.  From this, we will be comparing the key words that show up in blog posts to team performance.  Performance of teams will be measured by attendance, wins and losses, and team revenue.  We are looking for which of these events are most likely to lead to increase or decrease in overall team performance.
 
 
 ## Data source:
@@ -18,7 +18,7 @@ mlbtraderumors.com.
 *Data/text from this source will be scraped.
 
 ## Description of data: 
-The data includes blog posts dating back as far as 2005.  Blog posts include headline, author, and date published.  The performance data sets are much smaller, and are shown year over year.
+The data features blog posts that are continuously being uploaded with new rumor news being posted on a daily basis. The date of our data spans back as far as 2005.  Blog posts include headline, author, and date published.  The performance data sets are much smaller, and are shown year over year.
 
 ## Programming Language(s):
 Python through Jupyter Notebook
