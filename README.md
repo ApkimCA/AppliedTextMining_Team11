@@ -6,5 +6,5 @@ Our project’s objective will involve a sentiment/event analysis of articles/bl
 ## Data source:
 mlbtraderumors.com. (Data/text from this source will be scraped).
 
-Description of data: 
+## Description of data: 
 The data includes blog posts dating back as far as 2005.  Blog posts include headline, author, and date published.  The performance data sets are much smaller, and are shown year over year.
