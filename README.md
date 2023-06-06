@@ -2,7 +2,9 @@
 
 ## Team members:
 -Ben Earnest
+
 -Andrew Kim
+
 -Grigor Tashchyan
 
 
