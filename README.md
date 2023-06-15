@@ -21,4 +21,4 @@ mlbtraderumors.com.
 The data features blog posts that are continuously being uploaded with new rumor news being posted on a daily basis. The date of our data spans back as far as 2005.  Blog posts include headline, author, and date published.  The performance data sets are much smaller, and are shown year over year.
 
 ## Programming Language(s):
-Python through Jupyter Notebook
+Python through Jupyter Notebook and Visual Studio Code.
