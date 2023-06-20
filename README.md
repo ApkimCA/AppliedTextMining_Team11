@@ -12,7 +12,7 @@
 The goal of this project is to conduct a sentiment/event analysis of articles and blog posts of certain Major League Baseball (MLB) teams shown on the mlbtraderumors.com website.  From this, we will be comparing the key words that show up in blog posts to team performance.  Performance of teams will be measured by attendance, wins and losses, and team revenue.  We are looking for which of these events are most likely to lead to increase or decrease in overall team performance.
 
 
-## Data sources:
+## Data source(s):
 mlbtraderumors.com (*Data/text from this source will be scraped.)
 
 https://www.baseball-reference.com/
