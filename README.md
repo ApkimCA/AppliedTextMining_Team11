@@ -13,9 +13,9 @@ The goal of this project is to conduct a sentiment/event analysis of articles an
 
 
 ## Data source:
-mlbtraderumors.com. 
+mlbtraderumors.com (*Data/text from this source will be scraped).
 
-*Data/text from this source will be scraped.
+https://www.baseball-reference.com/
 
 ## Description of data: 
 The data features blog posts that are continuously being uploaded with new rumor news being posted on a daily basis. The date of our data spans back as far as 2005.  Blog posts include headline, author, and date published.  The performance data sets are much smaller, and are shown year over year.
