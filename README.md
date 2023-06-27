@@ -13,12 +13,15 @@ The goal of this project is to conduct a text/event analysis of articles and blo
 
 
 ## Data source(s):
-mlbtraderumors.com (*Data/text from this source will be scraped).
+https://www.mlbtraderumors.com/ (*Data/text from this source will be scraped).
 
 https://www.baseball-reference.com/ (#Data based on team performance from this sourse will be scraped).
 
 ## Description of data: 
 The data features blog posts that are continuously being uploaded with new rumor news being posted on a daily basis. The date of our data spans back as far as 2005.  Blog posts include headline, author, and date published.  The performance data sets are much smaller, and are shown year over year. For our project, we were only able to use data as far back as 2019.
+
+## Methods/Models used: 
+Tokenization, Normalization, Descriptive Statistics, Topic Modeling, and Classification Modeling (Logistic Regression).
 
 ## Programming Language(s):
 Python through Jupyter Notebook and Visual Studio Code.
